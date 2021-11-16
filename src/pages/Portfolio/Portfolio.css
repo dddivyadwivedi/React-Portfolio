@@ -1,0 +1,40 @@
+
+.customTabs .customTabs_item{
+    padding: 0px !important;
+    min-width: 0px !important;
+    margin-right: 20px !important;
+    text-transform: inherit;
+    font-size: 14px !important;
+    font-weight: 400 !important;
+    outline-width: 0px !important;
+    
+}
+.customTabs .active{
+    color: #ffc500 !important;
+    
+}
+/* End of tabs */
+/* Cards */
+.custom_card{
+    height: 100%;
+    max-width: 350px;
+    box-shadow: 0px 0px 48px 0px rgba(4 , 6 ,4 ,0.08) !important;
+    border-radius: 5px;
+    overflow: hidden;
+    outline-width: 0px !important;
+
+}
+.custom_card .custom_card_image{
+    height: 140px;
+
+}
+.custom_card .custom_card_title{
+    font-weight: 500;
+}
+.custom_card .custom_card_caption{
+    color: darkslategray !important;
+}
+/* End of cards */
+/* Dialog */
+
+/* End of dialog */
